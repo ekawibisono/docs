@@ -43,7 +43,7 @@ Click on the tooltip (i) next to each item to view relevant info.
 5. **Size**: Size of the data contained in the block in bytes.
 6. **Hash**: Cryptographic hash of the block header.
 7. **Parent Hash**: Hash of the preceding block.
-8. **Difficulty**: _NA for PoS. &#x57;_&#x6F;rk required to mine a block in PoW.
+8. **Difficulty**: _NA for PoS. W_ork required to mine a block in PoW.
 9. **Total Difficulty**: _NA for PoS._ Total difficulty to mine the chain up until this block.
 10. **Gas Used**: Total amount of gas used in the block & % of filled space.
 11. **Gas Limit**: Total gas limit for the block. 30M is Ethereum limit, which represents 2x the 15M target.
@@ -51,7 +51,7 @@ Click on the tooltip (i) next to each item to view relevant info.
 13. **Base Fee per Gas**: Minimum multiplier required for a transaction to be included in a block.&#x20;
 14. **Burnt Fees**: Amount of ETH burned in the block.
 15. **Priority Fee/Tip**: Total tips for transactions included in the block
-16. **Miner Reward**: Amount received by fee recipient in PoS. Matches (15).
+16. **Miner Reward**: Amount received by fee recipientin PoS. Matches (15).
 
 Scroll below the block details to view transactions contained within the block.
 

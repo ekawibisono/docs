@@ -14,7 +14,7 @@ However, what Blockscout does support is open-source code and ecosystem transpar
 
 ### L2 Data Views
 
-Blockscout's base configuration is geared towards L1 EVM implementation, centered around block exploration. To incorporate L2s effectively, batches need to take precedence. In particular batch attributes such as `Index, L1 Timestamp, Size, L1 tx hash, L1 block number, and Batch root` should be easily explorable.
+Blockscout's base configuration is geared towards L1 EVM implementation, centered around block exploration. To incorporate L2s effectively, batches need to take precendence. In particular batch attributes such as `Index, L1 Timestamp, Size, L1 tx hash, L1 block number, and Batch root` should be easily explorable.
 
 L1 to L2 transactions need to be clearly defined along with access to the current fraud proof window when appropriate. Transaction batch and state batch details should be included in an easy-to-explore format. Transaction fraud proof windows should be displayed along with countdowns, and if already executed, the transaction should be linked to its L1 counterpart.
 
@@ -30,7 +30,7 @@ General System Overview
 
 Blockscout is currently planning a major UI upgrade. New features will include a My Account section with custom tagging and custom ABIs, an apps integration, and an interface overhaul. Users are requesting a more modern interface with more features in-line with the Etherscan experience. This upgrade should help Blockscout attract new users and keep current users by providing a vastly improved explorer experience.&#x20;
 
-The work is ongoing and can be greatly expedited with additional resources. We feel this will remove a major blocker to more adoption of an open-source explorer. You can see some of the improvements on our [Goerli testnet implementation](https://eth-goerli.blockscout.com/) by logging in and creating an account.&#x20;
+The work is ongoing and can be greatly expedited with additional resources. We feel this will remove a major blocker to more adoption of an open-source explorer. You can see some of the improvements on our [Gorli testnet implementation](https://eth-goerli.blockscout.com/) by logging in and creating an account.&#x20;
 
 <figure><img src="../../../.gitbook/assets/img-1.png" alt=""><figcaption><p>Sign in to access UI in development</p></figcaption></figure>
 
